@@ -1,0 +1,2707 @@
+{
+  "id": "LANG",
+  "name": "Language",
+  "scope": "Universal",
+  "children": [
+    {
+      "id": "aav",
+      "name": "Austro-Asiatic languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "mkh",
+          "name": "Mon-Khmer languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "mun",
+          "name": "Munda languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "afa",
+      "name": "Afro-Asiatic languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "ber",
+          "name": "Berber languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "qjd",
+              "name": "Libyco-Berber (Ancient)",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "qje",
+              "name": "Eastern Berber",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qjf",
+                  "name": "Awjila-Sokna Group",
+                  "scope": "Collective",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "qjg",
+              "name": "Western Berber",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "qjh",
+              "name": "Southern Berber",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "tmh",
+                  "name": "Tamashek",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "qji",
+              "name": "Northern Berber",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qjj",
+                  "name": "Atlas Berber",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qjk",
+                  "name": "Ghomara-Senhaja Group",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qjl",
+                  "name": "Zenati",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qjm",
+                      "name": "Mzab-Wargla Group",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qjn",
+                      "name": "East Zenati Group",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cdc",
+          "name": "Chadic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "qag",
+              "name": "East Chadic",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qah",
+                  "name": "East Chadic A",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qai",
+                      "name": "Sibine Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qaj",
+                          "name": "Mire",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qak",
+                          "name": "Motun",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qal",
+                          "name": "Mawer",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qam",
+                      "name": "Miltu Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qan",
+                          "name": "Boor",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qao",
+                          "name": "Gadang",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qap",
+                      "name": "Nancere Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qaq",
+                          "name": "Nancere",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qar",
+                          "name": "Kimré",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qas",
+                      "name": "Gabri Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qat",
+                          "name": "Kabalai",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qau",
+                          "name": "Tobanga",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qav",
+                      "name": "Kwang Group",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "qaw",
+                  "name": "East Chadic B",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qax",
+                      "name": "Dangla Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qay",
+                          "name": "Birgit",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qaz",
+                          "name": "Jonkor Bourmataguil",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qba",
+                          "name": "Mabire",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbb",
+                          "name": "Mogum",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbc",
+                          "name": "Toram",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qbd",
+                      "name": "Mubi Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qbe",
+                          "name": "Kajakse",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbf",
+                          "name": "Masmaje",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbg",
+                          "name": "Zirenkel",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qbh",
+                      "name": "Kujargé Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qbi",
+                          "name": "Kujargé",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qbj",
+                      "name": "Mokilko Group",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qbk",
+                      "name": "Sokoro Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qbl",
+                          "name": "Saba",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbm",
+                          "name": "Tamki",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbn",
+                          "name": "Mawa",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qbo",
+                          "name": "Ubi",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qbp",
+                      "name": "Barein Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qbq",
+                          "name": "Jalking/Jelkung",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "qbr",
+              "name": "Masa Branch",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qbs",
+                  "name": "North Masa",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qbt",
+                  "name": "Musey-Azumeina",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qbu",
+                  "name": "South Masa",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qbv",
+                  "name": "Peve-Kaɗo",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qbw",
+                      "name": "Ngeté-Herdé",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "qbx",
+              "name": "West Chadic",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qby",
+                  "name": "Hausa-Gwandara",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "qbz",
+                  "name": "Bole-Angas",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qca",
+                      "name": "Bole-Tangale",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qcb",
+                          "name": "North Bole",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qcc",
+                              "name": "Bure",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcd",
+                              "name": "Gera",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qce",
+                              "name": "Geruma",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcf",
+                              "name": "Deno",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcg",
+                              "name": "Galambu",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qch",
+                              "name": "Giiwo",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qci",
+                              "name": "Kubi",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcj",
+                              "name": "Maaka",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qck",
+                              "name": "Ɓeele",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcl",
+                              "name": "Daza",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcm",
+                              "name": "Pali",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qcn",
+                          "name": "South Tangale",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qco",
+                              "name": "Kwaami",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcp",
+                              "name": "Pero",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcq",
+                              "name": "Piya-Kwonci",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcr",
+                              "name": "Kholok",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcs",
+                              "name": "Nyam",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qct",
+                              "name": "Kushi",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qcu",
+                              "name": "Kutto",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qcv",
+                      "name": "Angas Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qcw",
+                          "name": "Ngasic",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qcx",
+                              "name": "Belnəng",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qcy",
+                          "name": "Mwaghavulic",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qcz",
+                              "name": "Mupun",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qda",
+                              "name": "Takas",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdb",
+                              "name": "Cakfem-Mushere",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qdc",
+                          "name": "Miship",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qdd",
+                          "name": "Pan Cluster",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qde",
+                              "name": "Chakato/Jorto",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdf",
+                              "name": "Jipal",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdg",
+                              "name": "Mernyang",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdh",
+                              "name": "Kwagallak",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdi",
+                              "name": "Kofyar",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdj",
+                              "name": "Bwol",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdk",
+                              "name": "Goram",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdl",
+                              "name": "Jibyal",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdm",
+                              "name": "Nteng",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdn",
+                              "name": "Tel",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qdo",
+                          "name": "Talic",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qdp",
+                              "name": "Tal",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdq",
+                              "name": "Pyapun",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qdr",
+                              "name": "Koenoem",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qds",
+                          "name": "Goemaic",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qdt",
+                              "name": "Goemai",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qdu",
+                          "name": "Yiwom",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "qdv",
+                  "name": "Ron Group",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qdw",
+                      "name": "Fyer",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qdx",
+                      "name": "Tambas",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qdy",
+                      "name": "Shagawu",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qdz",
+                      "name": "Duhwa",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qea",
+                      "name": "Kulere",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qeb",
+                      "name": "Mundat",
+                      "scope": "Collective",
+                      "children": []
+                    },
+                    {
+                      "id": "qec",
+                      "name": "Sha",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "qed",
+                  "name": "Bade-Warji",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qee",
+                      "name": "Bade Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qef",
+                          "name": "Duwai",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qeg",
+                          "name": "Shira",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qeh",
+                          "name": "Teshenawa",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qei",
+                          "name": "Auyokawa",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qej",
+                      "name": "Warji Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qek",
+                          "name": "Pa'a",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qel",
+                          "name": "Diri",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qem",
+                          "name": "Ciwogai",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qen",
+                          "name": "Kariya",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qeo",
+                          "name": "Mburku",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qep",
+                          "name": "Siri",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qeq",
+                          "name": "Zumbun",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qer",
+                          "name": "Ajawa",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "qes",
+                  "name": "Barawa",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qet",
+                      "name": "Zaar Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qeu",
+                          "name": "Dass",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qev",
+                          "name": "Geji",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qew",
+                          "name": "Polci",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qex",
+                          "name": "Zari",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qey",
+                          "name": "Zeem",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qez",
+                      "name": "Guruntum Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qfa",
+                          "name": "Guruntum-Mbaaru",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfb",
+                          "name": "Ju",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfc",
+                          "name": "Tala",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfd",
+                          "name": "Zangwal",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qfe",
+                      "name": "Boghom Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qff",
+                          "name": "Jimi",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfg",
+                          "name": "Jum",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfh",
+                          "name": "Kir-Balar",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qfi",
+                          "name": "Mangas",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "qfj",
+              "name": "Central Chadic",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qfk",
+                  "name": "South Central",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qfl",
+                      "name": "Bata Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qfm",
+                          "name": "Bata Proper",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qfn",
+                              "name": "Fali",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfo",
+                              "name": "Gude",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfp",
+                              "name": "Gudu",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfq",
+                              "name": "Holma",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfr",
+                              "name": "Jimi (A.8)",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfs",
+                              "name": "Ngwaba",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qft",
+                              "name": "Nzanyi",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfu",
+                              "name": "Sharwa",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qfv",
+                          "name": "Tsuvan Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qfw",
+                              "name": "Tsuvan",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qfx",
+                              "name": "Zizilivakan",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qfy",
+                      "name": "Daba Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qfz",
+                          "name": "Daba Proper",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qga",
+                              "name": "Mazagway Hidi",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qgb",
+                          "name": "Mina Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qgc",
+                              "name": "Mina",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qgd",
+                              "name": "Mbudum",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qge",
+                          "name": "Buwal Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qgf",
+                              "name": "Buwal",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qgg",
+                              "name": "Gavar",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qgh",
+                      "name": "Mafa Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qgi",
+                          "name": "Mefele",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qgj",
+                          "name": "Cuvok",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qgk",
+                      "name": "Tera Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qgl",
+                          "name": "East Tera",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qgm",
+                              "name": "Boga",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qgn",
+                              "name": "Ga'anda",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qgo",
+                              "name": "Hwana",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qgp",
+                          "name": "West Tera",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qgq",
+                              "name": "Jara",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qgr",
+                      "name": "Hurza Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qgs",
+                          "name": "Vame",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qgt",
+                          "name": "Mbuko",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "qgu",
+                  "name": "North Central",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qgv",
+                      "name": "Margi-Mandara-Mofu",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qgw",
+                          "name": "Margi Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qgx",
+                              "name": "Bura Group",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qgy",
+                                  "name": "Cibak",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qgz",
+                                  "name": "Putai",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qha",
+                                  "name": "Nggwahyi",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "qhb",
+                              "name": "Margi Proper",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qhc",
+                                  "name": "Kilba",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhd",
+                                  "name": "Margi South",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qhe",
+                          "name": "Mandara Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qhf",
+                              "name": "Wandala",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qhg",
+                                  "name": "Glavda",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "qhh",
+                              "name": "Dghwede Group",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qhi",
+                                  "name": "Cineni",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhj",
+                                  "name": "Dghwede",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhk",
+                                  "name": "Guduf",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhl",
+                                  "name": "Gava",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhm",
+                                  "name": "Gvoko",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "qhn",
+                              "name": "Podoko Group",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qho",
+                                  "name": "Matal",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qhp",
+                          "name": "Mofu Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qhq",
+                              "name": "Tokombere",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qhr",
+                                  "name": "Ouldeme",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhs",
+                                  "name": "Mada",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qht",
+                                  "name": "Muyang",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhu",
+                                  "name": "Molokwo",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "qhv",
+                              "name": "Meri Group",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qhw",
+                                  "name": "Zulgo",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhx",
+                                  "name": "Gemzek",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhy",
+                                  "name": "Merey",
+                                  "scope": "Collective",
+                                  "children": []
+                                },
+                                {
+                                  "id": "qhz",
+                                  "name": "Dugwor",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "qia",
+                              "name": "Mofu Proper",
+                              "scope": "Collective",
+                              "children": [
+                                {
+                                  "id": "qib",
+                                  "name": "Mofu North",
+                                  "scope": "Collective",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qic",
+                      "name": "Maroua Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qid",
+                          "name": "Giziga North",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qie",
+                          "name": "Giziga South",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qif",
+                          "name": "Mbazla",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qig",
+                      "name": "Lamang Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qih",
+                          "name": "Hdi",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qii",
+                          "name": "Mabas",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qij",
+                      "name": "Higi Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qik",
+                          "name": "Bana",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qil",
+                          "name": "Hya",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qim",
+                          "name": "Psikyɛ",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qin",
+                          "name": "Kirya-Konzel",
+                          "scope": "Collective",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "qio",
+                      "name": "Musgum-Kotoko Group",
+                      "scope": "Collective",
+                      "children": [
+                        {
+                          "id": "qip",
+                          "name": "Kotoko Island",
+                          "scope": "Collective",
+                          "children": []
+                        },
+                        {
+                          "id": "qiq",
+                          "name": "Kotoko North",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qir",
+                              "name": "Mpade",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qis",
+                              "name": "Malgbe",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qit",
+                              "name": "Maltam",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qiu",
+                          "name": "Musgum Group",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qiv",
+                              "name": "Mbara",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qiw",
+                              "name": "Muskum",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qix",
+                          "name": "Kotoko Centre",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qiy",
+                              "name": "Lagwan",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qiz",
+                              "name": "Mser",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "qja",
+                          "name": "Kotoko South",
+                          "scope": "Collective",
+                          "children": [
+                            {
+                              "id": "qjb",
+                              "name": "Zina",
+                              "scope": "Collective",
+                              "children": []
+                            },
+                            {
+                              "id": "qjc",
+                              "name": "Mazera",
+                              "scope": "Collective",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cus",
+          "name": "Cushitic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "orm",
+              "name": "Oromo",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "egx",
+          "name": "Egyptian languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "omv",
+          "name": "Omotic languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "sem",
+          "name": "Semitic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "ara",
+              "name": "Arabic",
+              "scope": "Macrolanguage",
+              "children": [
+                {
+                  "id": "jrb",
+                  "name": "Judeo-Arabic",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "qaa",
+              "name": "Northwest Semitic",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "qab",
+                  "name": "Canaanite",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "qac",
+                      "name": "Proto-Canaanite",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "qad",
+                  "name": "Aramaic Group",
+                  "scope": "Collective",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "name": "Artificial languages",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "aus",
+      "name": "Australian languages",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "cai",
+      "name": "Central American Indian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "myn",
+          "name": "Mayan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "omq",
+          "name": "Oto-Manguean languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "oto",
+              "name": "Otomian languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "zap",
+              "name": "Zapotec",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cau",
+      "name": "Caucasian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "ccn",
+          "name": "North Caucasian languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "ccs",
+          "name": "South Caucasian languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "crp",
+      "name": "Creoles and pidgins",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "cpe",
+          "name": "English based creoles and pidgins",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "cpf",
+          "name": "French-based creoles and pidgins",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "cpp",
+          "name": "Portuguese-based creoles and pidgins",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dra",
+      "name": "Dravidian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "gon",
+          "name": "Gondi",
+          "scope": "Macrolanguage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "esx",
+      "name": "Eskimo-Aleut languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "iku",
+          "name": "Inuktitut",
+          "scope": "Macrolanguage",
+          "children": []
+        },
+        {
+          "id": "ypk",
+          "name": "Yupik languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "euq",
+      "name": "Basque (family)",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "hai",
+      "name": "Haida",
+      "scope": "Macrolanguage",
+      "children": []
+    },
+    {
+      "id": "him",
+      "name": "Himachali languages\nWestern Pahari languages",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "hmx",
+      "name": "Hmong-Mien languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "hmn",
+          "name": "Hmong\nMong",
+          "scope": "Macrolanguage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ine",
+      "name": "Indo-European languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "bat",
+          "name": "Baltic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "lav",
+              "name": "Latvian",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cel",
+          "name": "Celtic languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "gem",
+          "name": "Germanic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "gme",
+              "name": "East Germanic languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "gmq",
+              "name": "North Germanic languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "nor",
+                  "name": "Norwegian",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "gmw",
+              "name": "West Germanic languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "yid",
+                  "name": "Yiddish",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grk",
+          "name": "Greek languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "hyx",
+          "name": "Armenian (family)",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "iir",
+          "name": "Indo-Iranian languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "bih",
+              "name": "Bihari languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "inc",
+              "name": "Indic languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "doi",
+                  "name": "Dogri (macrolanguage)",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "kok",
+                  "name": "Konkani (macrolanguage)",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "lah",
+                  "name": "Lahnda",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "mwr",
+                  "name": "Marwari",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "nep",
+                  "name": "Nepali (macrolanguage)",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "ori",
+                  "name": "Oriya (macrolanguage)",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "pra",
+                  "name": "Prakrit languages",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "raj",
+                  "name": "Rajasthani",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "rom",
+                  "name": "Romany",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "san",
+                  "name": "Sanskrit",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "ira",
+              "name": "Iranian languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "bal",
+                  "name": "Baluchi",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "fas",
+                  "name": "Persian",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "kur",
+                  "name": "Kurdish",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "pus",
+                  "name": "Pushto\nPashto",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "zza",
+                  "name": "Zaza\nDimili\nDimli (macrolanguage)\nKirdki\nKirmanjki (macrolanguage)\nZazaki",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "itc",
+          "name": "Italic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "roa",
+              "name": "Romance languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "srd",
+                  "name": "Sardinian",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sla",
+          "name": "Slavic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "zle",
+              "name": "East Slavic languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "zls",
+              "name": "South Slavic languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "hbs",
+                  "name": "Serbo-Croatian",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "zlw",
+              "name": "West Slavic languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "wen",
+                  "name": "Sorbian languages",
+                  "scope": "Collective",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sqj",
+          "name": "Albanian languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "ipk",
+      "name": "Inupiaq",
+      "scope": "Macrolanguage",
+      "children": []
+    },
+    {
+      "id": "jpx",
+      "name": "Japanese (family)",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "khi",
+      "name": "Khoisan languages",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "map",
+      "name": "Austronesian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "fox",
+          "name": "Formosan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "poz",
+          "name": "Malayo-Polynesian languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "day",
+              "name": "Land Dayak languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "mlg",
+              "name": "Malagasy",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "msa",
+              "name": "Malay (macrolanguage)",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "plf",
+              "name": "Central Malayo-Polynesian languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "pqe",
+              "name": "Eastern Malayo-Polynesian languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "pqw",
+              "name": "Western Malayo-Polynesian languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "btk",
+                  "name": "Batak languages",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "cmc",
+                  "name": "Chamic languages",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "phi",
+                  "name": "Philippine languages",
+                  "scope": "Collective",
+                  "children": [
+                    {
+                      "id": "bik",
+                      "name": "Bikol",
+                      "scope": "Macrolanguage",
+                      "children": []
+                    },
+                    {
+                      "id": "bnc",
+                      "name": "Bontok",
+                      "scope": "Macrolanguage",
+                      "children": []
+                    },
+                    {
+                      "id": "mno",
+                      "name": "Manobo languages",
+                      "scope": "Collective",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mis",
+      "name": "Uncoded languages",
+      "scope": "Special",
+      "children": []
+    },
+    {
+      "id": "mul",
+      "name": "Multiple languages",
+      "scope": "Special",
+      "children": []
+    },
+    {
+      "id": "nai",
+      "name": "North American Indian",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "aql",
+          "name": "Algic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "alg",
+              "name": "Algonquian languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "cre",
+                  "name": "Cree",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "del",
+                  "name": "Delaware",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "oji",
+                  "name": "Ojibwa",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "azc",
+          "name": "Uto-Aztecan languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "nah",
+              "name": "Nahuatl languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cdd",
+          "name": "Caddoan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "hok",
+          "name": "Hokan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "iro",
+          "name": "Iroquoian languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "sal",
+          "name": "Salishan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "sio",
+          "name": "Siouan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "wak",
+          "name": "Wakashan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "xnd",
+          "name": "Na-Dene languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "ath",
+              "name": "Athapascan languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "apa",
+                  "name": "Apache languages",
+                  "scope": "Collective",
+                  "children": []
+                },
+                {
+                  "id": "den",
+                  "name": "Slavey",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nic",
+      "name": "Niger-Kordofanian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "alv",
+          "name": "Atlantic-Congo languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "aka",
+              "name": "Akan",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "bad",
+              "name": "Banda languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "bai",
+              "name": "Bamileke languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "bnt",
+              "name": "Bantu languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "kon",
+                  "name": "Kongo",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "luy",
+                  "name": "Luyia\nOluluyia",
+                  "scope": "Macrolanguage",
+                  "children": []
+                },
+                {
+                  "id": "swa",
+                  "name": "Swahili (macrolanguage)",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "ful",
+              "name": "Fulah",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "gba",
+              "name": "Gbaya (Central African Republic)",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "ijo",
+              "name": "Ijo languages",
+              "scope": "Collective",
+              "children": []
+            },
+            {
+              "id": "kro",
+              "name": "Kru languages",
+              "scope": "Collective",
+              "children": [
+                {
+                  "id": "grb",
+                  "name": "Grebo",
+                  "scope": "Macrolanguage",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "znd",
+              "name": "Zande languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dmn",
+          "name": "Mande languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "kpe",
+              "name": "Kpelle",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "man",
+              "name": "Mandingo\nManding",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "kdo",
+          "name": "Kordofanian languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "paa",
+      "name": "Papuan languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "ngf",
+          "name": "Trans-New Guinea languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "sai",
+      "name": "South American Indian languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "aqa",
+          "name": "Alacalufan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "awd",
+          "name": "Arawakan languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "auf",
+              "name": "Arauan languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "aym",
+          "name": "Aymara",
+          "scope": "Macrolanguage",
+          "children": []
+        },
+        {
+          "id": "cba",
+          "name": "Chibchan languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "qwe",
+          "name": "Quechuan (family)",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "que",
+              "name": "Quechua",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tup",
+          "name": "Tupi languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "grn",
+              "name": "Guarani",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sgn",
+      "name": "Sign Languages",
+      "scope": "Collective",
+      "children": []
+    },
+    {
+      "id": "sit",
+      "name": "Sino-Tibetan languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "tbq",
+          "name": "Tibeto-Burman languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "kar",
+              "name": "Karen languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "zhx",
+          "name": "Chinese (family)",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "zho",
+              "name": "Chinese",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sqi",
+      "name": "Albanian",
+      "scope": "Macrolanguage",
+      "children": []
+    },
+    {
+      "id": "ssa",
+      "name": "Nilo-Saharan languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "csu",
+          "name": "Central Sudanic languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "kau",
+          "name": "Kanuri",
+          "scope": "Macrolanguage",
+          "children": []
+        },
+        {
+          "id": "sdv",
+          "name": "Eastern Sudanic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "din",
+              "name": "Dinka",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "kln",
+              "name": "Kalenjin",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "nub",
+              "name": "Nubian languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "son",
+          "name": "Songhai languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "tai",
+      "name": "Tai languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "zha",
+          "name": "Zhuang\nChuang",
+          "scope": "Macrolanguage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "tut",
+      "name": "Altaic languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "trk",
+          "name": "Turkic languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "aze",
+              "name": "Azerbaijani",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "uzb",
+              "name": "Uzbek",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "tuw",
+          "name": "Tungus languages",
+          "scope": "Collective",
+          "children": []
+        },
+        {
+          "id": "xgn",
+          "name": "Mongolian languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "bua",
+              "name": "Buriat",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "mon",
+              "name": "Mongolian",
+              "scope": "Macrolanguage",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "und",
+      "name": "Undetermined",
+      "scope": "Special",
+      "children": []
+    },
+    {
+      "id": "urj",
+      "name": "Uralic languages",
+      "scope": "Collective",
+      "children": [
+        {
+          "id": "fiu",
+          "name": "Finno-Ugrian languages",
+          "scope": "Collective",
+          "children": [
+            {
+              "id": "chm",
+              "name": "Mari (Russia)",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "est",
+              "name": "Estonian",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "kom",
+              "name": "Komi",
+              "scope": "Macrolanguage",
+              "children": []
+            },
+            {
+              "id": "smi",
+              "name": "Sami languages",
+              "scope": "Collective",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "syd",
+          "name": "Samoyedic languages",
+          "scope": "Collective",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "zxx",
+      "name": "No linguistic content\nNot applicable",
+      "scope": "Special",
+      "children": []
+    }
+  ]
+}
